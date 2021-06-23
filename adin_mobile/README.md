@@ -1,1 +1,1 @@
-https://github.com/umatoma/flutter-study-samples
+https://github.com/umatoma/flutter-study-samples/tree/master/admin_mobile
